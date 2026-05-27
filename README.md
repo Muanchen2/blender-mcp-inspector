@@ -54,13 +54,13 @@ If you encounter any bugs or errors,please send me email :1409634020@qq.com
 1. Blender → Edit → Preferences → Get Extensions
 2. Search "MCP" (by Blender Lab:https://www.blender.org/lab/mcp-server/) → Install → Enable
 
-**Enable Online Access:**
+**Enable Auto Start:**
 1. Blender → Edit → Preferences → System
-2. Check **Online Access** (required for the MCP Bridge to work)
+2. Check **Auto Start** (required for the MCP Bridge to work)
 
 ### Phase 2 — Project setup (let AI handle this)
 
-Paste this into Claude, OpenCode, or Cursor:
+Paste this into Open claw,Claude, OpenCode, or Cursor,Codex...(AI agent software of this kind):
 
 > Clone this project. Read README.md and requirements.txt. Install dependencies with pip, then configure MCP for my AI client. My Blender is at [your Blender path].
 
