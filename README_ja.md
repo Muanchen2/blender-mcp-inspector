@@ -85,7 +85,7 @@ AI が自動で：
 ### 1. プロジェクトをインストール
 
 ```bash
-git clone https://github.com/your-username/blender-mcp-inspector.git
+git clone https://github.com/Muanchen2/blender-mcp-inspector.git
 cd blender-mcp-inspector
 pip install -r requirements.txt
 ```
