@@ -4,7 +4,7 @@ A structured analysis tool for Blender scenes, powered by MCP and AI — focused
 
 **Let AI understand your scene before you render.** PBR, NPR, stylized, photoreal — any .blend file, fully comprehended.
 
-If you encounter any bugs or erros,please send me emile :1409634020@qq.com
+If you encounter any bugs or errors,please send me email :1409634020@qq.com
 
 或者Bilibili直接搜沐安宸，然后私聊我。
 
