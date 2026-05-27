@@ -4,6 +4,8 @@ A structured analysis tool for Blender scenes, powered by MCP and AI — focused
 
 **Let AI understand your scene before you render.** PBR, NPR, stylized, photoreal — any .blend file, fully comprehended.
 
+If you encounter any bugs or erros,please send me emile :1409634020@qq.com
+
 ## Positioning: AI Reads Blender. Not AI Drives Blender.
 
 | | blender-mcp (community) | Blender MCP Inspector |
