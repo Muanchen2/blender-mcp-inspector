@@ -52,7 +52,7 @@ If you encounter any bugs or errors,please send me email :1409634020@qq.com
 
 **Install the add-on:**
 1. Blender → Edit → Preferences → Get Extensions
-2. Search "MCP" (by Blender Lab) → Install → Enable
+2. Search "MCP" (by Blender Lab:https://www.blender.org/lab/mcp-server/) → Install → Enable
 
 **Enable Online Access:**
 1. Blender → Edit → Preferences → System
